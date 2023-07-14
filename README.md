@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Also used [react-bootstrap](https://react-bootstrap.github.io/) for component creation and [React-Toastify](https://fkhadra.github.io/react-toastify/introduction/) for creating interactive toasts.
 
 ## Available Scripts
 
